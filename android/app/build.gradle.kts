@@ -8,7 +8,9 @@ plugins {
 android {
     namespace = "com.jdtechsage.quotes"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+
+    // Set the NDK version manually to resolve the dependency conflict
+    ndkVersion = "27.0.12077973"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11

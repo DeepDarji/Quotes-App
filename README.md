@@ -1,16 +1,28 @@
-# quotes
+# Quotes App
 
-A clean and minimal app that displays random motivational quotes fetched from a free API.
+A clean and minimal app that displays random motivational quotes fetched from a free API. The app allows users to:
 
-## Getting Started
+- Display a list of motivational quotes
+- Pull to refresh for new quotes
+- Share quotes via social media or messaging apps
+- Simple and smooth UI with category filtering and dark mode support
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Motivational Quotes**: Fetches and displays random quotes from the ZenQuotes API.
+- **Pull to Refresh**: Allows users to fetch new quotes.
+- **Share Quotes**: You can share quotes easily via social media or messaging apps.
+- **Dark Mode**: The app supports dark mode for better viewing at night.
+- **Category Filtering**: Filter quotes by different categories.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here’s a screenshot of the app:
+
+![Screenshot](assets/screenshot1.png)
+
+## APK Link
+
+You can download the APK from the following link:
+
+[Download Quotes App APK](https://drive.google.com/file/d/yourFileId/view?usp=sharing)
