@@ -25,4 +25,4 @@ Here’s a screenshot of the app:
 
 You can download the APK from the following link:
 
-[Download Quotes App APK](https://drive.google.com/file/d/yourFileId/view?usp=sharing)
+[Download Quotes App APK](https://drive.google.com/file/d/1Y0FzBFj-EyKpjSNYu00_Xr9aP-svUgBT/view?usp=drivesdk)
